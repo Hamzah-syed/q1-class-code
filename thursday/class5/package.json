@@ -1,0 +1,21 @@
+{
+  "name": "@hamzahsyed/calculator2",
+  "version": "3.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.5.4"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.10"
+  }
+}
